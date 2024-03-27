@@ -2,3 +2,4 @@ auto-save-list/
 elpa/
 .cache/
 .lsp-session-v1
+eln-cache/
