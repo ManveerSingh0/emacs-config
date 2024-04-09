@@ -9,8 +9,8 @@
   (package-refresh-contents))
 
 ;;Enable lihne number globally
-;;(global-display-line-numbers-mode)
-(display-line-numbers-mode t)
+(global-display-line-numbers-mode)
+;;(display-line-numbers-mode t)
 
 ;;Load the deeper blue theme
 (load-theme 'dracula t)
